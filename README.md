@@ -13,6 +13,20 @@ This project is a text-based slot machine game implemented in Python. Players ca
 - **Help Menu**: Access a help menu that explains the game rules, symbol values, and payout structure.
 - **Save and Load Game**: Save your current game progress and load it later to continue playing from where you left off.
 
+
+## Symbols and Payouts
+The slot machine uses the following symbols with corresponding payout multipliers:
+
+A: Multiplier of 5
+B: Multiplier of 4
+C: Multiplier of 3
+D: Multiplier of 2
+Matching symbols across the selected lines determine the winnings.
+
+## Contribution
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance the game's features or fix bugs.
+
+
 ## Setup Instructions
 
 1. **Clone the Repository**:
